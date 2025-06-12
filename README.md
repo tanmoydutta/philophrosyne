@@ -13,5 +13,11 @@ The concept module with coer removed-
 Below is the built module with the sensor and housing -
 ![alt text](https://github.com/tanmoydutta/philophrosyne/blob/main/images/VindBox_assembled.png?raw=true)
 
+This is an OSHWA certified hardware - 
+<p align="center">
+  <a href="https://certification.oshwa.org/nl000030.html">
+    <img src="/images/certification-mark-NL000030-wide.png?raw=true" alt="OSHWA" width="350" title="OSHWA Certification">
+  </a>
+</p>
 
 ![alt text](https://github.com/tanmoydutta/philophrosyne/blob/main/images/oshw_license.png?raw=true)
